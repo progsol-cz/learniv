@@ -1,0 +1,2 @@
+/// This is a CSS-only component that dynamically generates each of the SVG icons to be used as background images for each of the stars.
+/// For the rating value to be displayed , "data-rating-value" HTML attribute must be updated  and calculated rounding every 0.25 to reflect the proper rating.
